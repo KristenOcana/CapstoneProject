@@ -20,7 +20,7 @@ const Login = () => {
 {/* loginForm */}
         <div className='form-container h-full bg-white p-6 mt-32 lg:mt-24 justify-center content-center text-center rounded-2xl z-2'>
             <div className='pb-4 mb-4 border-b border-blue-950'>
-                <h1 className='text-black lg:text-3xl lg:font-medium'>Log in</h1>
+                <h1 className='text-blue-950 lg:text-3xl lg:font-medium'>Log in</h1>
             </div>
 
             <div className='mb-8'>
